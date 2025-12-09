@@ -1,0 +1,7 @@
+com\seedgo\controller\AgricultorController.class
+com\seedgo\controller\LoginRequest.class
+com\seedgo\SecurityConfig.class
+com\seedgo\SeedGoApplication.class
+com\seedgo\controller\AuthController.class
+com\seedgo\repository\AgricultorRepository.class
+com\seedgo\model\Agricultor.class
